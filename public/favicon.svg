@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" fill="#050708"/>
+  <rect x="1" y="1" width="30" height="30" stroke="rgba(0,212,200,0.4)" stroke-width="0.75"/>
+  <text x="16" y="21" text-anchor="middle" fill="#00D4C8" font-size="14" font-weight="700" font-family="system-ui, sans-serif" letter-spacing="-0.5">AA</text>
+  <!-- Corner marks -->
+  <line x1="1" y1="1" x2="5" y2="1" stroke="#00D4C8" stroke-width="1.5"/>
+  <line x1="1" y1="1" x2="1" y2="5" stroke="#00D4C8" stroke-width="1.5"/>
+  <line x1="27" y1="31" x2="31" y2="31" stroke="#00D4C8" stroke-width="1.5"/>
+  <line x1="31" y1="27" x2="31" y2="31" stroke="#00D4C8" stroke-width="1.5"/>
+</svg>
